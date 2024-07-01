@@ -1,0 +1,1 @@
+fn main() { let x = 5; let y = Box::new(x); if x == 5 { println!("x es igual a 5"); } if *y == 5 { println!("*y es igual a 5"); } // Desreferenciación de Box para obtener el valor interno println!("El valor de y es: {}", *y); }
