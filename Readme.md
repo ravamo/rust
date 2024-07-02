@@ -1,4 +1,3 @@
-Claro, aquí tienes el contenido del curso con enlaces a las carpetas internas del repositorio Git. Asegúrate de reemplazar `https://github.com/tu-usuario/rust` con la URL real de tu repositorio en GitHub.
 
 # Curso de Rust
 
