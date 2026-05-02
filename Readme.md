@@ -64,5 +64,9 @@ Para complementar tu aprendizaje, aquí tienes una lista de recursos útiles que
 - **WebAssembly con Rust**: [Rust and WebAssembly Book](https://rustwasm.github.io/docs/book/)
 - **Directorio con muchos proyectos Rust**: [Awesome Rust](https://github.com/rust-unofficial/awesome-rust)
 - **Trending de Repositorios Rust**: [Trending Rust Repositories](https://github.com/trending/rust)
+- **Effortless Cross-Compilation for Rust: Building for Any Platform**: [Effortless Cross-Compilation for Rust: Building for Any Platform] (https://medium.com/rust-rock/effortless-cross-compilation-for-rust-building-for-any-platform-6cce81558123)
+
+### Video Compilaciòn cruzada
+[![Rust Cross Compile - 1 Machine → 6 Targets ](https://img.youtube.com/vi/YWh06kGvxjo/0.jpg)]([https://www.youtube.com/watch?v=dQw4w9WgXcQ](https://www.youtube.com/watch?v=YWh06kGvxjo))
 
 ¡Buena suerte con tu aprendizaje de Rust!
